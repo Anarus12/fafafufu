@@ -1,0 +1,20 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temp / log files
+*.log
+*.tmp
+*.bak
+
+# Ignore IDE/editor config folders
+.vscode/
+.idea/
+
+# Ignore export or build folders
+build/
+dist/
+exported/
+
+# Kalau ada folder buat file mentah Construct
+c2project.capx
